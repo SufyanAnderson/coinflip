@@ -1,0 +1,9 @@
+body{
+  background-image: url(twoface2.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+h3{
+  margin-top: 40px;
+}
